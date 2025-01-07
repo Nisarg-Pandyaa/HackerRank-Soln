@@ -15,3 +15,10 @@ DESCRIPTION:
 -Aims To Showcase Problem-Solving Skills, Improve Coding Efficiency, And Prepare For Technical Interviews.
 <br>
 -Represents My First GitHub Repository And The Start Of My Programming Journey.
+<br>
+<br>
+NOTE:
+<br>
+-Logics And Approaches May Vary In Codes.
+<br>
+-Codes Provided Are The Only Codes Which I Passed It For All Test Cases On HackerRank.
